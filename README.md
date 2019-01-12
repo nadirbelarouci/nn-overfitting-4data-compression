@@ -1,5 +1,5 @@
 
-#Neural Networks Overfitting is GOOD 
+# Neural Networks Overfitting is GOOD 
 
 Overffiting may caused a lot of problems to many machine learning developers, and mostly all articles discuess how to avoid it, however in this notebook we will see what if overfitting is actually good in some senarios.
 
