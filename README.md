@@ -1,5 +1,5 @@
 
-# Neural Networks Overfitting is GOOD 
+# Using Neural Networks Overfitting for Data Compression
 
 Overffiting may caused a lot of problems to many machine learning developers, and mostly all articles discuess how to avoid it, however in this notebook we will see what if overfitting is actually good in some senarios.
 
